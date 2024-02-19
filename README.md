@@ -9,3 +9,7 @@ The MTK85 board will display the quantity of the coins that have been sorted.
 The user can navigate through the board by using the keyboard available. Those keyboard have been adjust to match the instruction displayed at the LCD screen.
 
 The system can be paused during the sorting process and offer the user to continue the current type of coin sorting or start a new sorting process of another type of coins. The LCD display will show the current amount of the coins sorted.
+
+For each coin sorted, the 4 red LED will blink insinuating the coin has been sorted.
+interrupt is applied when the user press the pause/reset button. Another instruction 
+will be displayed on the LCD screen to guided the user.
