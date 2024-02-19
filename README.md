@@ -13,3 +13,9 @@ The system can be paused during the sorting process and offer the user to contin
 For each coin sorted, the 4 red LED will blink insinuating the coin has been sorted.
 interrupt is applied when the user press the pause/reset button. Another instruction 
 will be displayed on the LCD screen to guided the user.
+
+
+**_Software & Hardware :_** 
+1) My1sim85 (Assembly Language)
+2) MTK85 (8085 Microprocessor)
+3) Teraterm (Scri[ting/debugging/to connect the software with the hardware)
